@@ -1,5 +1,5 @@
 # edges2car
-Small project in python about conditional Generative Adversarial Networks (cGAN).
+Project in python about conditional Generative Adversarial Networks (cGAN).
 
 Implementation of a Pix2pix model to generate images of car from a colored drawing.
 
