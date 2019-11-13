@@ -1,8 +1,10 @@
 # edges2car
-Web Project Link : https://georgezjchen.github.io/draw-a-car-build/
 
-Project in python using conditional Generative Adversarial Networks (cGAN).
-
-Implementation of a Pix2pix model to generate images of cars from colored drawings.
+Tensorflow implementation of pix2pix model to transfer style from colored drawings of cars to realistic images of cars.
 
 ![alt text](https://github.com/davHub/edges2car/blob/master/2ch.png)
+
+
+**Interactive interface:** [Website](https://georgezjchen.github.io/draw-a-car-build/)
+
+**More details :** [Internship report](https://drive.google.com/open?id=1MaZShjkUqU0jz4ylh64zxypOqDjbe8s4)
